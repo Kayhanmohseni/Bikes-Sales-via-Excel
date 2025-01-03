@@ -21,8 +21,8 @@ Cleaned layoffs data in SQL
 
 ### Data Sources
 
-Bike Sales Data: The primary dataset used for this analysis is the 
-
+Bike Sales Data: The primary dataset used for this analysis is the "Sales.csv" file, 
+containing information about customers who bought bikes.
 
 ### Tools
 
