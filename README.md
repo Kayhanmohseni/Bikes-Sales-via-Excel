@@ -21,17 +21,23 @@ Cleaned layoffs data in SQL
 
 ### Data Sources
 
+Bike Sales Data: The primary dataset used for this analysis is the 
+
 
 ### Tools
 
-- MySQL Workbench - Data Cleaning & Exploratory Data Analysis
-  - [Download here](https://dev.mysql.com/downloads/installer/)
+- Microsoft Excel
+  - [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### Data Cleaning
 
 In the initial data preparation phase, I performed the following tasks: 
-1. dwasd
-2. dada
+1. Removed all duplicates
+2. Edited names using UPPER, LOWER, or Proper function
+3. Used filter to look for spelling errors
+4. Trimmed white spaces using TRIM function
+5. Fixed issues with numerical data such as currency and dates
+6. Created a new column containing age groups
 
 ### Exploratory Data Analysis
 
