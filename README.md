@@ -16,6 +16,8 @@ This data analysis project aims to provide insights into bike sales.
 By analyzing the data provided, we seek to find patterns between the range of survey takers
 looking to buy a bike based on gender, income, commute distance, and more. 
 
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/cc5ce990-5ba3-42b1-8d72-733ce70c8d3f)
+
 ### Data Sources
 
 Bike Sales Data: The primary dataset used for this analysis is the "Sales.csv" file, 
