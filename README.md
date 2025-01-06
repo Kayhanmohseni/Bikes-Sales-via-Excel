@@ -21,7 +21,7 @@ looking to buy a bike based on gender, income, commute distance, and more.
 ### Data Sources
 
 Bike Sales Data: The primary dataset used for this analysis is the "Sales.csv" file, 
-containing information about the survey takers.
+and contains information about the survey takers.
 
 ### Tools
 
