@@ -25,7 +25,7 @@ containing information about the survey takers.
 
 ### Tools
 
-- Microsoft Excel
+- Microsoft Excel - Data Cleaning & Exploratory Data Analysis
   - [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### Data Cleaning
